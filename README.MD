@@ -1,4 +1,6 @@
-Easy to use CLI to get all stable coin balances (Ethereum mainnet, BNB Chain, Polygon) of one or many addresses. Currently you need a free [Alchemy API key](https://docs.alchemy.com/docs/alchemy-quickstart-guide).
+Easy to use CLI to get all stable coin balances (Ethereum mainnet, BNB Chain, Polygon) of one or many addresses.
+
+A JSON file `balances.json` is automatically populated so you can start working with it with any other program. You currently you need a free [Alchemy API key](https://docs.alchemy.com/docs/alchemy-quickstart-guide).
 
 Balances output by the program :
 - ETH
@@ -13,8 +15,6 @@ Balances output by the program :
 - USDC (BNB Chain)
 
 ![Example of the balances output](https://github.com/fabcotech/stablecoin-balances/raw/master/static/balances.png)
-
-A JSON file `balances.json` is automatically populated so you can start working with it with any other program.
 
 ### How to use
 
