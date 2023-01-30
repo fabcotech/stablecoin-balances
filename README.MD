@@ -6,9 +6,11 @@ Balances output by the program :
 - ETH
 - USDT (Ethereum)
 - USDC (Ethereum)
+- agEur (Ethereum)
 - Matic (Polygon)
 - USDT (Polygon)
 - USDC (Polygon)
+- agEur (Polygon)
 - BNB (BNB Chain)
 - BUSD (BNB Chain)
 - USDT (BNB Chain)
