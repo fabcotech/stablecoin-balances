@@ -12,7 +12,7 @@ Balances output by the program :
 - USDT (BNB Chain)
 - USDC (BNB Chain)
 
-![Example of the balances output](https://github.com/fabcotech/stablecoin-balances/raw/master/static/balances.jpg)
+![Example of the balances output](https://github.com/fabcotech/stablecoin-balances/raw/master/static/balances.png)
 
 A JSON file `balances.json` is automatically populated so you can start working with it with any other program.
 
